@@ -1,4 +1,5 @@
-# Example Adiabatic Flame Temperature Problem
+# Example 9.6-2 Adiabatic Flame Temperature Problem Using DIPPR Properties
+Solutions given for MATLAB and Python (Also do this problem using Excel and Aspen)
 Example Problem in Felder Rousseau and Boulard
 In this problem you will use the templates that solve an isobutanol combustion problem with 20% excess air to solve the adiabatic flame temperature example problem of methanol combustion with 100% excess air of Example 9.6-2 using DIPPR properties with the following methods:
 
